@@ -29,10 +29,10 @@ Determinar si las reseñas reflejan una percepción positiva, negativa o neutral
 Identificar palabras clave que impactan el sentimiento de los usuarios.
 
 ## Hallazgos Clave.
-Las categorías Family y Game dominan el mercado, mientras que otras como Beauty tienen menos participación.
-Las aplicaciones de menor tamaño suelen ser preferidas por los usuarios debido a limitaciones de espacio y velocidad de descarga.
-Las aplicaciones gratuitas tienen más descargas pero generan ingresos principalmente por publicidad.
-Las aplicaciones de pago ofrecen características especializadas, sin anuncios, y tienden a tener menos descargas debido a su costo.
+Las categorías Family y Game dominan el mercado, mientras que otras como Beauty tienen menos participación.                                                                               
+Las aplicaciones de menor tamaño suelen ser preferidas por los usuarios debido a limitaciones de espacio y velocidad de descarga.                            
+Las aplicaciones gratuitas tienen más descargas pero generan ingresos principalmente por publicidad.                                                                                    
+Las aplicaciones de pago ofrecen características especializadas, sin anuncios, y tienden a tener menos descargas debido a su costo.                                                        
 El análisis de sentimientos mostró que palabras como excelente o amigable están asociadas a percepciones positivas, mientras que términos como problema o reembolso reflejan experiencias negativas.
 
 ## Conclusión
